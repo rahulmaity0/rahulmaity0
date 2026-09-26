@@ -2,7 +2,7 @@
 
 Backend developer in Mumbai. I build and test Java services with Spring Boot.
 
-I graduated in 2024 with a B.E. in Artificial Intelligence and Data Science from Thadomal Shahani Engineering College (CGPA 8.31). For the next two years I ran day-to-day operations at my family's gold manufacturing business. There I moved inventory and transaction tracking off paper, which is where most of the projects below come from.
+I graduated in 2024 with a B.E. in Artificial Intelligence and Data Science from Thadomal Shahani Engineering College (CGPA 8.31).
 
 I'm looking for an entry-level **Software Engineer**, **Backend Developer** or **SDET / QA Automation** role.
 
