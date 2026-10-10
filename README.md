@@ -24,5 +24,5 @@ I'm looking for an entry-level **Software Engineer**, **Backend Developer** or *
 ## Contact
 
 - Email: rkmaity13@gmail.com
-- LinkedIn: [linkedin.com/in/rahulmaity](https://linkedin.com/in/rahulmaity)
+- LinkedIn: [linkedin.com/in/rahulmaity](https://www.linkedin.com/in/rahul-maity-82032a205/)
 - Portfolio: [portfoliowebsite-mu-sandy.vercel.app](https://portfoliowebsite-mu-sandy.vercel.app)
